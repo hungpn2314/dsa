@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83ce545d-49be-402b-b1ae-a97fb171d319" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary-search-tree/src/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary-tree/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/src/AdjMatrixGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-tap/src/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap/src/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-tap/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-tap/src/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap/src/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/src/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/out/production/singly-linked-list/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/out/production/singly-linked-list/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/out/production/singly-linked-list/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/out/production/singly-linked-list/SinglyLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/out/production/singly-linked-list/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/out/production/singly-linked-list/singly-linked-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/binary-search-tree/binary-search-tree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singly-linked-list/singly-linked-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/binary-tree/binary-tree.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WDBB5BnFl0iAC24Ok7PMYX7IPg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83ce545d-49be-402b-b1ae-a97fb171d319" name="Changes" comment="" />
+      <created>1696257131944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696257131944</updated>
+    </task>
+    <servers />
+  </component>
+</project>
